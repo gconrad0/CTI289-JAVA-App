@@ -189,7 +189,7 @@
                         <tr>
                             <td colspan="3">
                                 <input class="form-city" name="City" type="text" placeholder="City" value="${city}" required>&nbsp;
-                                <select class="form-state" name="State">     
+                                <select class="form-state" name="State" required>     
                                     <option value="${state}">${state}</option>
                                     <option value="AL">Alabama</option>
                                     <option value="AK">Alaska</option>
@@ -259,7 +259,7 @@
                 <input class="btn-link" value="Purchase Tickets" type="submit"><br><br>
                 
             </form>
-                  <a href="ClearForm"><button>Reset</button></a>
+                  <a href="purchase.jsp"><button>Reset</button></a>
             <br><br><br><br><br>
         </div>
         <div class="copyright">

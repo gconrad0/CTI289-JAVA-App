@@ -197,6 +197,7 @@
                     </tbody>
                 </table>
             </div>
+           <a href="dashboard.jsp"><button class="btn-link">Refresh Tables</button></a>
         </div>
 
 
