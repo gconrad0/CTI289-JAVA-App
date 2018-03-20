@@ -1,7 +1,7 @@
 <%-- 
     Document   : purchase
     Created on : Feb 9, 2018, 6:40:39 PM
-    Author     : Owner
+    Author     : Owner BATMAN
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
